@@ -1,5 +1,5 @@
 # Pygame-Minesweeper
-Minesweeper written in python using pygame.
+Minesweeper written in python using pygame. You can change the difficulty by uncommenting the variables at the top of `minesweeper.py`.  
 ## Controls
 - "R" reset game
 - "H" hide ending screen
